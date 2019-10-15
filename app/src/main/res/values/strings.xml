@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebCalculadora</string>
+
+    <string name="btn1">sumar</string>
+    <string name="btn2">restar</string>
+    <string name="btn3">multiplicar</string>
+    <string name="btn4">dividir</string>
+    <string name="msg">ingresar numeros</string>
+
+    <string name="btnAnt">boton anterior</string>
+    <string name="msg3">resultado</string>
+
+</resources>
